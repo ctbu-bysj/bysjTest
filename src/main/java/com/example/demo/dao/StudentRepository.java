@@ -8,4 +8,5 @@ public class StudentRepository extends JpaRepository<Student,Long> {
    i=1;
 
    int y=0;
+   int x=o;
 }
